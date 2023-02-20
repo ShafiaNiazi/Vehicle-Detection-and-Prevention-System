@@ -1,1 +1,1 @@
-# Vehicle-Detection-and-Prevention-System
+# Vehicle-Detection-and-Prevention-System At the point when an accident will happen, the location of the accident is detected by a GPS module and an alert message will be sent with location via GSM module to the registered mobile numbers. This alert message will help in giving quick assistance to the victim.
